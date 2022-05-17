@@ -1,5 +1,5 @@
 {
-    "name": "benhdev/skeleton",
+    "name": "phpskeleton/laravel",
     "description": "Laravel package",
     "type": "library",
     "license": "MIT",
