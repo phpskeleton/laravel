@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use Skeleton\Helpers\Helper;
+
+class {{ class }} extends Helper
+{
+
+}
